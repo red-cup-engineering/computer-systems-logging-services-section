@@ -2,3 +2,7 @@
 	path = apps/computer-systems-logging-engine
 	url = https://github.com/red-cup-engineering/computer-systems-logging-engine.git
 	branch = main
+[submodule "apps/luca"]
+	path = apps/luca
+	url = https://github.com/red-cup-engineering/luca.git
+	branch = main
